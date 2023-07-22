@@ -419,7 +419,7 @@ margin-bottom: 8px;
 
 .social-link:hover,
 .social-link:focus {
-    background-color: var(--ocean-button-color);
+    background-color: #31d0aa;
 }
 
 
@@ -582,16 +582,14 @@ display: flex;
 }
 .social-staff-list-footer {
     display: flex;
-    gap: 24px;
-    justify-content: center;
+    gap: 16px;
 }
 
 .staff-icons-list {
-    width: 24px;
-    height: 24px;
-    
+    width: 40px;
+    height: 40px;    
 }
 
-.social-icons {
-    fill: var(--additional-background-color)
+.social-icons-footer {
+fill: var(--additional-background-color);
 }
