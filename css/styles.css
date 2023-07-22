@@ -407,11 +407,6 @@ margin-bottom: 8px;
     height: 40px;
 }
 
-.staff-icons-list {
-    width: 40px;
-    height: 40px;
-}
-
 .social-link {
     display: flex;
     justify-content: center;
@@ -472,6 +467,11 @@ margin-bottom: 8px;
     margin-bottom: 72px;
     margin-top: 120px;
     color: var(--main-text-color);
+}
+
+.logos-section {
+    padding-bottom: 120px;
+    padding-top: 120px;
 }
 
 .logo-company {
