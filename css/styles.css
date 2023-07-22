@@ -497,9 +497,10 @@ margin-bottom: 8px;
     color: var(--lightslate-color);
 }
 
-.logo-company-link :hover,
-.logo-company-link :focus {
+.logo-company-link:hover,
+.logo-company-link:focus {
     border-color: var(--ocean-button-color);
+    /* border-color: #404bbf; */
     color: var(--ocean-button-color);
 }
 
