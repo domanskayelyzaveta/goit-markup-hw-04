@@ -436,8 +436,6 @@ margin-bottom: 8px;
     display: flex;
     gap: 24px;
     justify-content: center;
-    width: 40px;
-    height: 40px;
 }
 
 .team-container {
@@ -597,11 +595,17 @@ display: flex;
 .social-staff-list-footer {
     display: flex;
     gap: 16px;
+    width: 40px;
+    height: 40px;
 }
 
-.staff-icons-list {
+/* .staff-icons-list {
     width: 40px;
     height: 40px;    
+} */
+
+.staff-icons-list-footer {
+    
 }
 
 .social-icons-footer {
