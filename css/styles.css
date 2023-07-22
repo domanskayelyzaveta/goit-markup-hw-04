@@ -533,9 +533,15 @@ margin-bottom: 8px;
     color: var(--main-text-color);
 }
 
-.logo-footer-div {
-width: 296px;
+.footer-container {
+display: flex;
+align-items: baseline;
 }
+
+.logo-footer-div {
+    margin-right: 120px;
+}
+
 
 .gallery-item {
 flex-basis: calc((100% - 48px) / 3);
@@ -560,10 +566,20 @@ margin-bottom: 120px;
 padding-top: 96px;
 padding-bottom: 120px;
 }
+
 .social-links-footer{
 display: flex;
+
 }
 
+.social-meadia-paragraph {
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    color: var(--additional-text-color);
+    margin-bottom: 16px;
+}
 .social-staff-list-footer {
     display: flex;
     gap: 24px;
