@@ -112,7 +112,7 @@ align-items: center;
     align-items: center;
     gap: 40px;
 }
-.menu :not(:first-child) {
+.menu:not(:first-child) {
     margin-left: 40px;
 }
 .menu-item {
@@ -433,7 +433,7 @@ margin-bottom: 8px;
 
 .social-link-footer:hover,
 .social-link-footer:focus {
-background-color: #31d0aa;
+    background-color: #31d0aa;
 }
 
 
@@ -597,7 +597,7 @@ display: flex;
 fill: var(--additional-background-color);
 }
 
-.social-meadia-paragraph {
+.social-media-paragraph {
     font-weight: 500;
     font-size: 16px;
     line-height: 1.5;
@@ -611,7 +611,6 @@ fill: var(--additional-background-color);
 }
 
 .staff-icons-list {
-
     width: 40px;
     height: 40px;    
 }
