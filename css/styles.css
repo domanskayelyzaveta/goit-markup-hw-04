@@ -500,8 +500,11 @@ margin-bottom: 8px;
 .logo-company-link:hover,
 .logo-company-link:focus {
     border-color: var(--ocean-button-color);
-    /* border-color: #404bbf; */
     color: var(--ocean-button-color);
+}
+
+.logo-company-svg {
+    fill: currentColor;
 }
 
 
