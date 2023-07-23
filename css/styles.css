@@ -432,7 +432,7 @@ margin-bottom: 8px;
 }
 
 .social-link-footer:hover,
-.social-link:focus {
+.social-link-footer:focus {
     background-color: #31d0aa;
 }
 
@@ -610,6 +610,7 @@ fill: var(--additional-background-color);
 }
 
 .staff-icons-list {
+
     width: 40px;
     height: 40px;    
 }
