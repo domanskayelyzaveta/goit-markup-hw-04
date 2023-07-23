@@ -57,8 +57,8 @@ button {
 
 
 .container {
-    max-width: 1440px;
-    padding: 0 15px;
+    max-width: 1152px;
+    padding: 12px 12px;
     margin: 0 auto;
 }
 
@@ -193,7 +193,7 @@ padding: 24px 0;
     line-height: 1.07;
     max-width: 1440px;
     background-size: cover;
-    background-image: linear-gradient(rgba(46, 47, 66, 0.7), rgba(46, 47, 66, 0.7)), url(../images/icons/people-office\ 1.jpg);
+    background-image: linear-gradient(rgba(46, 47, 66, 0.7), rgba(46, 47, 66, 0.7)), url(../images/icons/people-office\.jpg);
     color: var(--white-background-color);
     background-repeat: no-repeat;
     background-position: center;
@@ -533,6 +533,7 @@ margin-bottom: 8px;
     line-height: 1.5;
     letter-spacing: 0.32px;
     color: var(--additional-background-color);
+    max-width: 296px;
 }
 
 .logo-footer-link {
@@ -551,7 +552,7 @@ align-items: baseline;
 }
 
 .logo-footer-div {
-    margin-right: 120px;
+    margin-left: 120px;
 }
 
 
