@@ -610,9 +610,13 @@ fill: var(--additional-background-color);
 }
 
 .staff-icons-list {
-
     width: 40px;
     height: 40px;    
+}
+
+.staff-icons-list-footer {
+    width: 40px;
+    height: 40px;
 }
 
 .social-icons-footer {
